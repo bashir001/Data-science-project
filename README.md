@@ -1,2 +1,2 @@
 # Data-science-project
-some of the data science project you need to master as a data scientist
+some @datascience project you need to now as a #datascientist
